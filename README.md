@@ -1,9 +1,9 @@
 # ProjetoIBGE
 
-Link da documentação da API-IBGE
+API documentation - 
 https://servicodados.ibge.gov.br/api/docs/localidades
 
-Link da documentação do Lazy Loading 
+Lazy loading documentation -
 https://angular.io/guide/lazy-loading-ngmodules
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.2.
